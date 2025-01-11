@@ -1,6 +1,7 @@
 # Discord Bot: Coom Counter
 
 Welcome to the **Coom Counter Discord Bot**! This bot is designed to run seamlessly on your local system, and you can start it by simply double-clicking a batch file. Below, you'll find detailed instructions on how to get started and verify that the bot is running properly.
+- [📥 Download the Latest Release](https://github.com/SimplySweetxX/coombot/releases/latest)
 
 ---
 

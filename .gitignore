@@ -6,3 +6,6 @@ node_modules/
 
 # Ignore config file with sensitive information
 config.json
+
+# Ignore log files
+dependencies_installed.txt

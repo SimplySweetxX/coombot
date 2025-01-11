@@ -21,7 +21,10 @@ Welcome to the **Coom Counter Discord Bot**! This bot is designed to run seamles
 ## ▶️ How to Run the Bot
 
 1. **Navigate to the Project Folder**: Ensure you're in the folder containing the `doubleClickMe.bat` file.
-2. **Double-Click `doubleClickMe.bat`**: Simply double-click the file to launch the bot.
+2. **First Run**: Double-click `doubleClickMe.bat` to install dependencies.
+   - Wait for the installation to complete. The script will instruct you to run it again.
+3. **Second Run**: Double-click `doubleClickMe.bat` again to deploy and start the bot.
+4. The terminal will remain open, showing bot logs.
 
 ---
 
